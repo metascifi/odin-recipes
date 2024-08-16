@@ -1,0 +1,26 @@
+body {
+    background-color: #e19819;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #fff;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.heading-center {
+    text-align: center;
+}
+
+.main-dish-image {
+    width: 300;
+    height: auto;
+}
