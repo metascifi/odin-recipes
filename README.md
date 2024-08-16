@@ -10,4 +10,4 @@ Each recipe page has short description, ingredients and detailed steps to cook a
 
 You can open the website with web browser.
 
-Built on HTML only.   
+Built on HTML and CSS.   
