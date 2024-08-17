@@ -2,14 +2,28 @@ body {
     background-color: #e19819;
     font-family: Helvetica, Arial, sans-serif;
     color: #fff;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.heading-odin-word {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color:rgb(255, 211, 196);
+    font-size: 40px;
+    font-style: italic;
+}
+
+ul {
+  width: 10em;
+  margin: 0 auto;  
 }
 
 a {
     color: #fff;
     font-weight: 600;
     font-size: 16px;
-}
-
-h1 {
-    text-align: center;
 }
